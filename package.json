@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "ejs": "^7.0.2",
+    "express": "^5.3.0"
+  },
+  "name": "fullstackles3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UHJILEHEP/fullStackLes3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UHJILEHEP/fullStackLes3/issues"
+  },
+  "homepage": "https://github.com/UHJILEHEP/fullStackLes3#readme"
+}
